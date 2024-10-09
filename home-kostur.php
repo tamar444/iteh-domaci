@@ -19,7 +19,7 @@
 <div class="row" style="background-color: rgba(225, 225, 208, 0.5);">
     <div class="col-md-4">
         <button id="btn" class="btn btn-info btn-block" 
-        style="background-color: teal !important; border: 1px solid white; "> Prikazi kolokvijum</button>
+        style="background-color: teal !important; border: 1px solid white; "> Prikazi kolokvijume</button>
     </div>
     <div class="col-md-4">
         <button id="btn-dodaj" type="button" class="btn btn-success btn-block"
@@ -63,7 +63,7 @@
 
                 </tr>
                 <?php
-            }
+            
             } ?>
             </tbody>
         </table>
